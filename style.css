@@ -1,0 +1,48 @@
+body {
+    background-color: tan;
+}
+
+#caseStudy {
+    color: blue;
+}
+
+#lens {
+    width: 100;
+}
+
+#net {
+    height: 90;
+    background-color: blue;
+    color: white;
+}
+
+.testImageAndResult {
+    background-color: grey;
+    border-radius: 50px;
+    width: 90%;
+    margin-bottom: 50px;
+}
+
+.img-responsive {
+    width: 1000;
+    margin-top: 50px;
+}
+
+#header {
+    margin-bottom: 30px;
+}
+
+#vs {
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: red;
+}
+
+.testResult {
+    background-color: palevioletred;
+    border-radius: 50px;
+    width: 90%;
+    text-align: center;
+    margin-bottom: 50px;
+}
